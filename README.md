@@ -2,7 +2,7 @@
 - 👀 I’m interested in database services
 - 🌱 I’m currently learning OSS
 - 💞️ I’m looking to collaborate on OSS database services
-- 📫 Reach me via GitHub
+- 📫 Reach me via GitHub: https://github.com/yianzh/yianzh
 
 <!---
 yianzh/yianzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
